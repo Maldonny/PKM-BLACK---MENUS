@@ -1,0 +1,180 @@
+CONFIRM
+CANCEL
+L\xf000Ȃ\x0001\x0000
+\xf000Ă\x0001\x0000
+\xf000Ȃ\x0001\x0000
+\xf000Ȃ\x0001\x0000
+/
+⑭
+⑮
+Choose a Pokémon.
+
+Move to where?
+Give to which Pokémon?
+Use on which Pokémon?
+Teach which Pokémon?
+
+Deposit which Pokémon?
+Use on which Pokémon?
+Do what with\xfffe\xf000Ă\x0001\x0000?
+Do what with\xfffean item?
+
+Restore\xfffewhich move?
+Boost the PP\xfffeof which move?
+Send the removed Mail to\xfffeyour PC?
+
+
+The Mail was sent to your PC.
+If the Mail is removed, its written\xfffemessage will be lost. Is that OK?
+
+
+Your PC's Mailbox is full.
+Mail was taken from the\xfffePokémon.
+\xf000Ă\x0001\x0000 wants to learn the\xfffemove \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeHowever, \xf000Ă\x0001\x0000 already\xfffeknows four moves.\xf000븁\x0000\xfffeShould a move be deleted and\xfffereplaced with \xf000ć\x0001\x0001?
+
+
+Give up on learning the move\xfffe\xf000ć\x0001\x0001?
+
+
+\xf000Ă\x0001\x0000 did not learn\xfffe\xf000ć\x0001\x0001.
+Which move should\xfffebe forgotten?
+1, \xf000븂\x0001\x00142, and\xf000븂\x0001\x0014... \xf000븂\x0001\x0014... \xf000븂\x0001\x0014... Ta-da!\xf000븅\x0001\x0003\xf000븅\x0001\x0006\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 forgot how to\xfffeuse \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeAnd...
+\xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001!\xf000븅\x0001\x0002\xf000븅\x0001\x0005
+\xf000Ă\x0001\x0000 and \xf000ć\x0001\x0001\xfffeare not compatible.\xf000븁\x0000\xfffe\xf000ć\x0001\x0001 can't be learned.
+\xf000Ă\x0001\x0000 already knows\xfffe\xf000ć\x0001\x0001.
+\xf000Ă\x0001\x0000's HP was restored\xfffeby \xf000Ȃ\x0001\x0001 point(s).
+\xf000Ă\x0001\x0000 was cured of its\xfffepoisoning.
+\xf000Ă\x0001\x0000 was cured of\xfffeparalysis.
+\xf000Ă\x0001\x0000's burn was healed.
+\xf000Ă\x0001\x0000 was thawed out.
+PP was restored.
+\xf000Ă\x0001\x0000 recovered from\xfffefainting!
+\xf000Ă\x0001\x0000 became healthy.
+\xf000ć\x0001\x0000's PP\xfffeincreased.
+
+
+\xf000Ă\x0001\x0000's base \xf000č\x0001\x0001\xffferose!
+This can't be used until a new\xfffeBadge is obtained.
+Must remove Mail before the\xfffePokémon is allowed to hold an item.
+\xf000Ă\x0001\x0000 is already holding\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000\xfffeWould you like to switch the\xfffetwo items?
+
+
+\xf000Ă\x0001\x0000 isn't holding\xfffeanything.
+Received the \xf000ĉ\x0001\x0001\xfffefrom \xf000Ă\x0001\x0000.
+The Bag is full.
+The \xf000ĉ\x0001\x0001 was taken and\xfffereplaced with the \xf000ĉ\x0001\x0002.
+
+
+
+
+
+
+\xf000Ă\x0001\x0000 woke up.
+
+
+
+
+
+
+
+You're already surfing.
+You can't use that here.
+It won't have any effect.
+
+\xf000Ă\x0001\x0000 became more friendly.\xf000븁\x0000\xfffeHowever, its base \xf000č\x0001\x0001 fell!
+\xf000Ă\x0001\x0000 adores you!\xf000븁\x0000\xfffeIts base \xf000č\x0001\x0001 fell!
+\xf000Ă\x0001\x0000 became more friendly.\xf000븁\x0000\xfffeIts base \xf000č\x0001\x0001 can't go lower.
+\xf000Ă\x0001\x0000 was given the\xfffe\xf000ĉ\x0001\x0001 to hold.
+Choose a Pokémon.
+Two Pokémon are needed.
+Three Pokémon are needed.
+Four Pokémon are needed.
+Five Pokémon are needed.
+Six Pokémon are needed.
+No more than one Pokémon\xfffemay enter.
+No more than two Pokémon\xfffemay enter.
+No more than three Pokémon\xfffemay enter.
+No more than four Pokémon\xfffemay enter.
+No more than five Pokémon\xfffemay enter.
+Mail was transferred from\xfffethe Mailbox.
+This Pokémon is holding an item.\xfffeIt cannot hold Mail.
+This can't be used on\xfffethat Pokémon.
+
+
+
+
+
+
+Not enough HP...
+SWITCH
+SUMMARY
+ITEM
+MAIL
+READ
+TAKE
+STORE
+QUIT
+
+ENTER
+NO ENTRY
+
+
+
+
+GIVE
+TAKE
+
+
+
+
+NOT ENTERED
+BANNED
+FIRST
+SECOND
+THIRD
+FOURTH
+FIFTH
+SIXTH
+ABLE!
+UNABLE!
+LEARNED
+ABLE!
+UNABLE!
+
+
+Identical Pokémon are not permitted.\xfffe
+Some Pokémon are holding identical\xfffeitems.
+The total of all party members'\xfffelevels has gone over \xf000Ȃ\x0001\x0000.
+
+The Pokémon which must participate\xfffeis not selected.
+MAX HP
+ATTACK
+DEFENSE
+SP. ATK
+SP. DEF
+SPEED
++
+\xf000Ȃ\x0001\x0000
+\xf000Ă\x0001\x0000 was elevated to\xfffeLv. \xf000Ȃ\x0001\x0001!\xf000븅\x0001\x0002\xf000븅\x0001\x0005
+
+You can't use that when you have\xfffesomeone with you.
+
+
+What will you do\xfffewith the Egg?
+Please select an Egg.
+
+CONFIRM
+\xf000ā\x0001\x0000 changed Forme!
+
+
+\xf000Ā\x0001\x0000 is standing by...
+One person standing by...
+Two people standing by...
+Three people standing by...
+Time Limit
+\xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
+\xf000ȁ\x0001\x0001
+Communicating. Please wait.
+YES
+NO
+You used your last \xf000ĉ\x0001\x0000.
