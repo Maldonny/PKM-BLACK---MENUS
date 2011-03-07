@@ -4,11 +4,11 @@
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
-Choose a Pokémon.
-Use on which Pokémon?
+Escolha um Pokémon.
+Usar em qual Pokémon?
 
-Battle using which Pokémon?
-Switch out which Pokémon?
+Lutar usando qual Pokémon?
+Trocar qual Pokémon?
 L\xf000Ȃ\x0001\x0000
 /
 \xf000Ȃ\x0001\x0000
@@ -22,16 +22,16 @@ PP
 SHIFT
 ⑭
 ⑮
-SUMMARY
-CHECK MOVES
-CANNOT BATTLE
-IN BATTLE
+SUMÁRIO
+VER MOVIMENTOS
+NÃO PODE LUTAR
+ESTÁ LUTANDO
 STAND BY
 PARTNER'S
-No item held
+Sem itens
 
 
-Lv.
+Nv.
 \xf000Ȃ\x0001\x0000
 NEXT LV
 \xf000ȅ\x0001\x0000
@@ -40,15 +40,15 @@ HP
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
 /
-ATTACK
+ATAQUE
 \xf000Ȃ\x0001\x0000
-DEFENSE
+DEFESA
 \xf000Ȃ\x0001\x0000
-SP. ATK
+ATQ ESP.
 \xf000Ȃ\x0001\x0000
-SP. DEF
+DEF ESP.
 \xf000Ȃ\x0001\x0000
-SPEED
+VELOC.
 \xf000Ȃ\x0001\x0000
 
 PP
@@ -56,19 +56,19 @@ PP
 \xf000ȁ\x0001\x0000
 /
 
-POWER
+FORÇA
 \xf000Ȃ\x0001\x0000
 --
-ACCURACY
+PRECISÃO
 \xf000Ȃ\x0001\x0000
-CATEGORY
-PHYSICAL
+CATEGORIA
+FISICO
 STATUS
-SPECIAL
+ESPECIAL
 
-FORGET
-CANCEL
-HM moves can't be\xfffeforgotten now.
+ESQUECER
+CANCELAR
+Movimentos HM não podem\xfffeser esquecidos agora.
 \xf000ć\x0001\x0000
 
 
@@ -84,12 +84,12 @@ HM moves can't be\xfffeforgotten now.
 \xf000ć\x0001\x0000
 
 
-\xf000Ă\x0001\x0000 is\xfffealready in battle!
-\xf000Ă\x0001\x0000 has no energy\xfffeleft to battle!
-\xf000Ă\x0001\x0000 can't be switched\xfffeout!
-An Egg can't battle!
-You cannot decide for\xfffeyour partner!
-It won't have any effect.
+\xf000Ă\x0001\x0000 já\xfffeestá lutando!
+\xf000Ă\x0001\x0000 não tem força\xfffepara voltar a luta!
+\xf000Ă\x0001\x0000 não pode ser\xfffetrocado!
+Um OVO não pode lutar!
+Você não pode decidir\xfffepor seu parceiro!
+Não terá nenhum efeito.
 
 
 
@@ -101,8 +101,8 @@ It won't have any effect.
 
 
 
-\xf000Ă\x0001\x0000 has already been\xfffeselected.
-Restore which move?
+\xf000Ă\x0001\x0000 já está\xfffeselecionado.
+Restaurar qual movimento?
 \xf000ć\x0001\x0001's effect prevents\xfffethe item's use on \xf000Ă\x0001\x0000!
 \xf000Ă\x0001\x0000 can't be switched\xfffeout!
 \xf000Ă\x0001\x0000 is already switched\xfffeout.
