@@ -1,15 +1,15 @@
-About “Infrared"
-About “Online"
-About “Online"
-About “Wireless"
-About “Wireless"
-About “Wireless"
-About “Wireless"
-About “Wireless"
-About “Tag Log"
-About “Survey Radar"
-About “Customization"
-About “ON/OFF"
+Sobre “Infravermelho"
+Sobre “Online"
+Sobre “Online"
+Sobre “Wireless"
+Sobre “Wireless"
+Sobre “Wireless"
+Sobre “Wireless"
+Sobre “Wireless"
+Sobre “Tag Log"
+Sobre “Survey Radar"
+Sobre “Customização"
+Sobre “ON/OFF"
 Using infrared, you can battle and trade\xfffewith a friend in front of you.\xfffeYou can also use the Feeling Check which\xfffetells you how compatible you and your\xfffefriend are, and exchange Friend Codes.
 By pressing the Game Sync button,\xfffeyou can select a Pokémon to make sleep\xfffeand then send your saved data over\xfffeNintendo Wi-Fi Connection.
 You cannot connect to Nintendo Wi-Fi\xfffeConnection without the proper\xfffesystem settings, even when you are\xfffeable to receive a signal for \xfffeNintendo Wi-Fi Connection.
@@ -22,6 +22,6 @@ It displays what people\xfffearound you are doing in real time.\xfffeBy selectin
 You can do surveys on people\xfffearound you.\xfffe\xfffeChoose what you want to find out,\xfffeand you can see the daily results,\xfffeas well as the cumulative results.
 Touch the Customization icon, and it will\xfffestart blinking. Touch other buttons as it\xfffeblinks, and they will appear differently.\xfffe\xfffeYou can even make patterns with buttons\xfffeof different colors.
 Touch this button to turn\xfffewireless communications on or off.\xfffe\xfffeOnce you turn it off, the touch panel\xfffeturns dark, and wireless communications\xfffewill be turned off.
-NEXT
-QUIT
-PREVIOUS
+PRÓXIMO
+SAIR
+ANTERIOR
