@@ -2,17 +2,17 @@ ENTRALINK
 XTRANSCEIVER
 Union Room
 \xf000ȁ\x0001\x0000 Ppl
-Wireless Distribution
-YES
-NO
+Destribuição Wireless
+SIM
+NÃO
 
 
 
 
 
-C-Gear Detected
+C-Gear Detectado
 
 
-CONNECTING\xfffeENTRALINK...
-ENTRALINK\xfffeGUESTS: \xf000Ȁ\x0001\x0000
-ENTRALINK\xfffeMISSION
+CONECTANDO\xfffeENTRALINK...
+ENTRALINK\xfffeCONVIDADOS: \xf000Ȁ\x0001\x0000
+ENTRALINK\xfffeMISSÃO
