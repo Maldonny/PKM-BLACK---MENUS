@@ -1,146 +1,146 @@
-No Answer
-Black
-White
-Male
-Female
-Battle
-Trade
-The City
-The Country
-Smart
-Athletic
-Time
-Money
-Appearance
-Substance
-Cool
-Cute
-Strange
+N/A
+Preto
+Branco
+Menino
+Menina
+Batalha
+Intercâmbio
+Cidade
+País
+Inteligente
+Atlético
+Tempo
+Dinheiro
+Estilos
+Personalidade
+Legal
+Lindo
+Estranho
 Tepig
 Oshawott
 Snivy
-The Beach
-A River
-The Mountains
-Classes
-Breaks
-Lunch
-Family
-Friends
-Self
-Spring
-Summer
-Autumn
-Winter
-Sweet
-Spicy
-Sour
-Bitter
-Fun
+Mar
+Río
+Montanha
+Aula
+Quebrar
+Almoços escolares
+Familia
+Amigos
+Auto
+Primavera
+Verão
+Queda
+Inverno
+Doce
+Picante
+Azedo
+Amargo
+Interessante
 Cool
-Kind
-Rich
-Battles
-Collecting
-The Story
+Bom
+Rico
+Luta
+Recolher
+História
 Pokémon
-English
-Math
-Science
-Social Studies
-English
-Math
-Science
-Social Studies
-Trainer
-Professor
-Team Plasma
+Primeira Lingua
+Matemática
+Ciência
+Sociedade
+Primeira Lingua
+Matemática
+Ciência
+Sociedade
+Treinador
+Professor Pokémon
+Equipe Plasma
 Pokémon
-Play Outside
-Shopping
-Reading
-Video Games
-Sleeping Late
-Pop
+Jogar ao ar livre
+Loja
+Ler
+Jogo
+Sono
+Popular
 Rock
 Jazz
 Rap
-Classical
-News
+Classico
+Noticias
 Drama
-Comedy
-Sports
-Cartoons
-Action
-Sci-Fi
-Romance
+Comédia
+Esportes
+Anime
+Ação
+SF
+Amor
 Suspense
-Comedy
+Comédia
 Horror
-Baseball
-Soccer
-Basketball
-Football
+Basebol
+Futebol
+Basquetebol
+Futebol
 Hockey
-Martial Arts
-Red
-Green
-Blue
-Yellow
-White
-Black
-Exercising
-Reading
-Music
-Movies
-Traveling
-Cooking
-Fishing
-Video Games
-Student
-Office Worker
-Creator
-Self-Employed
-Public Official
-Homemaker
-Artist
-Job-Hopper
-Chili
-Cilan
-Cress
-Lenora
-Burgh
-Elesa
-Clay
-Skyla
-Brycen
+Artes Marciais
+Vermelho
+Verde
+Azul
+Amarelo
+Branco
+Preto
+Fitness
+Ler
+Música
+Filmes
+Viagem
+Cozinhar
+Pescar
+Jogos
+Estudante
+Secretario
+Criador
+Empregado
+Govt. Oficial
+Dona de Casa
+Artista
+Trabalho
+Pod
+Dent
+Corn
+Aloe
+Arty
+Camille
+Yacon
+Flo
+Hachiku
 Iris
-Drayden
+Shaga
 Normal
-Fire
-Water
-Electric
-Grass
-Ice
-Fighting
-Poison
-Ground
-Flying
-Psychic
-Bug
-Rock
-Ghost
-Dragon
-Dark
-Steel
-0-10 Hours
-10-20 Hours
-20-30 Hours
-30-40 Hours
-40-50 Hours
-50-60 Hours
-60-70 Hours
-70-80 Hours
-80-90 Hours
-90-100 Hours
-100+ Hours
+Fogo
+Água
+Elétrico
+Grama
+Gelo
+Luta
+Veneno
+Terra
+Voador
+Psiquico
+Inséto
+Rocha
+Fantasma
+Dragão
+Escuro
+Aço
+0 - 10 horas
+10 - 20 horas
+20 - 30 horas
+30 - 40 horas
+40 - 50 horas
+50 - 60 horas
+60 - 70 horas
+70 - 80 horas
+80 - 90 horas
+90 - 100 horas
+100  horas
